@@ -1,0 +1,48 @@
+conky: no process found
+conky: desktop window (200010) is subwindow of root window (3a1)
+conky: desktop window (200010) is subwindow of root window (3a1)
+conky: window type - normal
+conky: drawing to created window (0x2800002)
+conky: drawing to double buffer
+conky: window type - normal
+conky: can't open '/sys/class/hwmon/hwmon2/temp2_input': No such file or directory
+please check your device or remove this var from conky
+conky: desktop window (200010) is subwindow of root window (3a1)
+conky: desktop window (200010) is subwindow of root window (3a1)
+conky: window type - normal
+conky: window type - normal
+conky: drawing to created window (0x2e00002)
+conky: drawing to created window (0x2c00002)
+conky: drawing to double buffer
+conky: drawing to double buffer
+conky: can't open '/sys/class/hwmon/hwmon2/temp3_input': No such file or directory
+please check your device or remove this var from conky
+conky: can't open '/sys/class/hwmon/hwmon2/temp4_input': No such file or directory
+please check your device or remove this var from conky
+conky: can't open '/sys/class/hwmon/hwmon2/temp2_input': No such file or directory
+please check your device or remove this var from conky
+conky: can't open '/sys/class/hwmon/hwmon2/temp3_input': No such file or directory
+please check your device or remove this var from conky
+conky: can't open '/sys/class/hwmon/hwmon2/temp4_input': No such file or directory
+please check your device or remove this var from conky
+conky: drawing to created window (0x2a00002)
+conky: drawing to double buffer
+conky: desktop window (200010) is subwindow of root window (3a1)
+conky: window type - normal
+conky: drawing to created window (0x3000002)
+conky: drawing to double buffer
+conky: desktop window (200010) is subwindow of root window (3a1)
+conky: desktop window (200010) is subwindow of root window (3a1)
+conky: window type - normal
+conky: drawing to created window (0x3400002)
+conky: drawing to double buffer
+conky: window type - normal
+conky: drawing to created window (0x3200002)
+conky: drawing to double buffer
+conky: conky: received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
+received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
+conky: received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
+conky: conky: received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
+received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
+conky: received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
+conky: received SIGHUP, SIGINT, or SIGTERM to terminate. bye!

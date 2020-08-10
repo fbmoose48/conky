@@ -14,11 +14,14 @@ sleep 5
 killall conky
 
 # Starting all lux-hud conky widgets.
-conky -c ~/.conky/lux-hud/lux-sysinfo.conf &
-conky -c ~/.conky/lux-hud/lux-cpu.conf &
-conky -c ~/.conky/lux-hud/lux-memory.conf &
-conky -c ~/.conky/lux-hud/lux-disks.conf &
-conky -c ~/.conky/lux-hud/lux-network.conf &
-conky -c ~/.conky/lux-hud/lux-processes.conf &
-conky -c ~/.conky/lux-hud/lux-log.conf &
-#conky -c ~/.conky/lux-hud/lux-clock.conf &
+conky -c ~/.config/conky/lux-hud/lux-sysinfo.conf &
+conky -c ~/.config/conky/lux-hud/lux-cpu.conf &
+conky -c ~/.config/conky/lux-hud/lux-memory.conf &
+conky -c ~/.config/conky/lux-hud/lux-disks.conf &
+conky -c ~/.config/conky/lux-hud/lux-network.conf &
+conky -c ~/.config/conky/lux-hud/lux-processes.conf &
+conky -c ~/.config/conky/lux-hud/lux-log.conf &
+#conky -c ~/.config/conky/lux-hud/lux-news.conf &
+conky -c ~/.config/conky/lux-hud/lux-crypt.conf &
+#conky -c ~/.config/conky/lux-hud/lux-clock.conf &
+conky -c ~/.config/conky/lux-hud/lux-dwm.conf &

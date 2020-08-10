@@ -31,7 +31,7 @@ Make sure you have conky and the Cutive Mono font installed on your system.
 Download compressed files or use git clone.
 
 ```shell
-git clone https://github.com/luxwarp/lux-hud.git
+git clone https://github.com/fbmoose48/conky.git
 ```
 
 Place the cloned or uncompressed lux-hud folder inside
